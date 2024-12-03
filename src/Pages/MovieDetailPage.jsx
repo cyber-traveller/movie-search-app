@@ -37,7 +37,7 @@ function MovieDetailPage() {
           whileHover={{ scale: 1.1, backgroundColor: "#f0f0f0" }}
           whileTap={{ scale: 0.95 }}
         >
-          <span className="material-symbols-outlined"></span>
+          <span className="material-symbols-outlined">arrow</span>
           <span className="font-bold text-lg"> Back</span>
         </motion.div>
       </Link>

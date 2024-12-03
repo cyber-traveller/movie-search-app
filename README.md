@@ -60,7 +60,7 @@ To get the project up and running on your local machine, follow these steps:
 
 ![Movie Search App Screenshot 1](src/assets/Screenshot%201.png)
 ![Movie Search App Screenshot 2](src/assets/Screenshot%202.png)
-![Movie Search App Screenshot 3](src/assets/Screenshot%202.png)
+![Movie Search App Screenshot 3](src/assets/Screenshot%203.png)
 
 ## API Integration
 
